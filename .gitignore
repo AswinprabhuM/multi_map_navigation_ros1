@@ -1,0 +1,10 @@
+build/
+devel/
+log/
+*.pyc
+*.swp
+*.swo
+.ros/
+*.db
+*.rviz
+
