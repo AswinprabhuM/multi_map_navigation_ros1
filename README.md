@@ -29,6 +29,7 @@ Design and implement a system where:
 
 ## 🗂️ Project Structure
 
+```bash
 multi_map_navigator/
 ├── action/
 │ └── NavigateBetweenMaps.action
@@ -64,7 +65,7 @@ multi_map_navigator/
 ├── rviz/
 │ └── turtlebot3_navigation.rviz
 └── my_wormholes.db
-
+```
 ---
 
 ## 🧠 Architecture
