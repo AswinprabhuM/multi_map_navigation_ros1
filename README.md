@@ -64,7 +64,9 @@ multi_map_navigator/
 │ └── move_base_params.yaml
 ├── rviz/
 │ └── turtlebot3_navigation.rviz
-└── my_wormholes.db
+├── my_wormholes.db
+├── CMakeLists.txt
+└── package.xml
 ```
 ---
 
