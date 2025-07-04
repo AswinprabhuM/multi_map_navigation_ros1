@@ -5,6 +5,5 @@ log/
 *.swp
 *.swo
 .ros/
-*.db
-*.rviz
+
 
